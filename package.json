@@ -1,6 +1,7 @@
 {
   "name": "cursority",
   "version": "0.0.0",
+  "description": "Customizable React cursor component",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -8,6 +9,20 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wbogatyrewa/cursority"
+  },
+  "keywords": [
+    "react",
+    "cursor",
+    "react-cursor",
+    "custom-cursor",
+    "react-custom-cursor",
+    "animated-cursor"
+  ],
+  "author": "wbogatyrewa",
+  "license": "MIT",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
